@@ -4,6 +4,7 @@ Created on Thu Jan 31 02:27:36 2019
 
 @author: Mani
 """
+# Test program to convert PCAP file to csv format which can be later used in Tableau to visualize.
 from kamene.all import *
 from pyx import *
 import json
